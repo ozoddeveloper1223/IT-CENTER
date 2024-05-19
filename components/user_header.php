@@ -18,7 +18,7 @@ if (isset($message)) {
          <div id="menu-btn" class="fas fa-bars"></div>
       </div>
 
-      <a href="home.php" class="logo">IT-CENTER</a>
+      <a href="home.html" class="logo">IT-CENTER</a>
 
       <form action="search_course.php" method="post" class="search-form">
          <input type="text" name="search_course" placeholder="Kurslarni qidirsh" required maxlength="100">
@@ -99,7 +99,7 @@ if (isset($message)) {
    </div>
 
    <nav class="navbar">
-      <a href="home.php"><i class="fas fa-home"></i><span>Bosh sahifa</span></a>
+      <a href="home.html"><i class="fas fa-home"></i><span>Bosh sahifa</span></a>
       <a href="about.php"><i class="fas fa-question"></i><span>Biz haqimizda</span></a>
       <a href="courses.php"><i class="fas fa-graduation-cap"></i><span>Kurslar</span></a>
       <a href="teachers.php"><i class="fas fa-chalkboard-user"></i><span>Ustozlar</span></a>
